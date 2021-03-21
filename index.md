@@ -6,6 +6,10 @@ _CryptoSketch Pokemon_ is a collection of **2586** Pokemon inspired unique sketc
 - To find third generation grass and poison pokemons with sharpness value of 7,
 - etc.
 
+### Where to buy
+
+All items are available at [OpenSea](https://opensea.io/collection/cryptosketch-pokemon)
+
 ### Definitions
 
 **Generation:** Defines Pokemon’s generation from one to eight.
